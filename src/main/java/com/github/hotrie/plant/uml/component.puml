@@ -1,0 +1,10 @@
+@startuml
+[First]
+[Other] as Another
+
+component Another2
+
+component [Last\ncomponent] as Last
+
+
+@enduml
